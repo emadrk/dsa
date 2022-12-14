@@ -1,5 +1,3 @@
-
-
 #https://www.youtube.com/watch?v=AxNNVECce8c&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=6
 
 def printAllSubsequences(index,list1,data):
